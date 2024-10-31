@@ -51,7 +51,7 @@
 - Graph Theory Applications in Databases
 
 ## 📫 How to Reach Me
-- LinkedIn: www.linkedin.com/in/amin-maneshi-b4b7a429b
+- LinkedIn: www.linkedin.com/in/amin-maneshi/
 - Email: amin.maneshi94@gmail.com
 
 ## 💼 Looking For
