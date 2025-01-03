@@ -24,6 +24,7 @@
 
 ### Graph-Based Shortest Path Algorithm Implementation in SQL
 *(Pre-thesis Project)*
+- Repository: https://github.com/AMIN-MAN13/graphsql
 - Implemented Dijkstra's algorithm using pure SQL queries
 - Developed efficient graph traversal methods in relational database
 - Optimized query performance for large-scale graph operations
