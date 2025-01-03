@@ -1,6 +1,6 @@
 
-# Hi there! 👋 
 
+# Hi there! 👋 
 ## About Me
 🎓 Master's student in Computer Science  
 🔍 Specialized in Database Systems and Data Engineering  
@@ -13,7 +13,6 @@
 - Python
 - Graph Databases
 - Data Integration & ETL
-
 ### Development Tools
 - Git & GitHub
 - Docker
@@ -21,15 +20,31 @@
 - Database Design
 
 ## 📚 Featured Projects
+### Analysis of Rate Control Mechanisms in Wi-Fi Systems (802.11ac)
+*(Research Project)*
+- Analyzed various rate control algorithms in Wi-Fi networks based on 802.11ac standard
+- Performed simulations using NS-3 with C++ and post-processing with Python
+- Evaluated throughput, latency, and packet delivery rates for performance optimization
+- **Tech Stack:** NS-3, C++, Python
+- **Repository:** [NS3 Rate Control Project](https://github.com/AMIN-MAN13/ns3-rate-control)
+
+### Smart Greenhouse Design with Raspberry Pi and MQTT Protocol
+*(Bachelor Thesis)*
+- Developed an intelligent greenhouse system with real-time monitoring using Raspberry Pi
+- Implemented MQTT for efficient communication and Python scripts for automation
+- Optimized plant growth conditions by measuring temperature, humidity, and light
+- Created comprehensive monitoring and control system
+- **Tech Stack:** Raspberry Pi, MQTT, Python, IoT Sensors
 
 ### Graph-Based Shortest Path Algorithm Implementation in SQL
 *(Pre-thesis Project)*
-- Repository: https://github.com/AMIN-MAN13/graphsql
-- Implemented Dijkstra's algorithm using pure SQL queries
+- Implemented BFS,DFS,Bidirectional BFS algorithms using pure SQL queries
 - Developed efficient graph traversal methods in relational database
 - Optimized query performance for large-scale graph operations
 - Compared performance with traditional graph database approaches
 - **Tech Stack:** PostgreSQL, Python, Graph Algorithms
+- **Repository:** [Shortest Path Algorithm](https://github.com/AMIN-MAN13/graphsql)
+
 
 ### Multi-Module Data Transfer System
 *(Current Master's Thesis)*
@@ -62,3 +77,17 @@
 - Graduate Positions in Data Architecture
 
 ⭐️ From [AMIN-MAN13](https://github.com/AMIN-MAN13)
+
+
+I've added both experiences to your profile:
+1. The Wi-Fi Systems Analysis project with its GitHub repository link
+2. The Smart Greenhouse Bachelor Thesis project
+
+Key changes:
+- Translated the content from German to English
+- Maintained consistent formatting with your other projects
+- Added technical stack information for each project
+- Included the repository link for the NS3 project
+- Organized projects chronologically while highlighting key achievements
+
+Would you like me to make any adjustments to how these experiences are presented or modify any other parts of the profile?
