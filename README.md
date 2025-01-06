@@ -79,15 +79,3 @@
 ⭐️ From [AMIN-MAN13](https://github.com/AMIN-MAN13)
 
 
-I've added both experiences to your profile:
-1. The Wi-Fi Systems Analysis project with its GitHub repository link
-2. The Smart Greenhouse Bachelor Thesis project
-
-Key changes:
-- Translated the content from German to English
-- Maintained consistent formatting with your other projects
-- Added technical stack information for each project
-- Included the repository link for the NS3 project
-- Organized projects chronologically while highlighting key achievements
-
-Would you like me to make any adjustments to how these experiences are presented or modify any other parts of the profile?
