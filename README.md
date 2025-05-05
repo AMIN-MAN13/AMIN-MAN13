@@ -54,6 +54,8 @@
 - Implementing data validation, dynamic edge generation, and error-handling mechanisms  
 - Enabling inter-node communication via RESTful APIs and SQL-based state queries  
 - **Tech Stack:** Python, MariaDB, Flask, VirtualBox, JSON Schema, RESTful APIs
+- **Repository:** [Graph-Based-Simulation-Pipeline-for-Smart-Environments-](https://github.com/AMIN-MAN13/Graph-Based-Simulation-Pipeline-for-Smart-Environments-)
+
 
 ## 🔬 Research Interests
 - Graph Database Optimization
