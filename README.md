@@ -46,13 +46,14 @@
 - **Repository:** [Shortest Path Algorithm](https://github.com/AMIN-MAN13/graphsql)
 
 
-### Multi-Module Data Transfer System
-*(Current Master's Thesis)*
-- Designing and implementing 5 interconnected modules for efficient data transfer
-- Building lightweight database solution using SQLite
-- Developing seamless integration between different data modules
-- Implementing data validation and error handling mechanisms
-- **Tech Stack:** SQLite, Python, RESTful APIs
+### Graph-Based Simulation Pipeline for Smart Environments  
+*(Current Master's Thesis)*  
+- Designing and implementing an automated pipeline to transform graph-based models into distributed simulation environments  
+- Provisioning isolated Debian-based VMs with Flask APIs and MariaDB through Python automation  
+- Generating SQL schemas and runtime code from JSON Schemas for node behavior and communication  
+- Implementing data validation, dynamic edge generation, and error-handling mechanisms  
+- Enabling inter-node communication via RESTful APIs and SQL-based state queries  
+- **Tech Stack:** Python, MariaDB, Flask, VirtualBox, JSON Schema, RESTful APIs
 
 ## 🔬 Research Interests
 - Graph Database Optimization
