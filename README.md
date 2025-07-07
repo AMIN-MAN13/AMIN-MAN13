@@ -47,7 +47,7 @@
 
 
 ### Graph-Based Simulation Pipeline for Smart Environments  
-*(Current Master's Thesis)*  
+*(Master's Thesis)*  
 - Designing and implementing an automated pipeline to transform graph-based models into distributed simulation environments  
 - Provisioning isolated Debian-based VMs with Flask APIs and MariaDB through Python automation  
 - Generating SQL schemas and runtime code from JSON Schemas for node behavior and communication  
