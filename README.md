@@ -3,6 +3,7 @@
 # Hi there! 👋 
 ## About Me
 I am a Master of Science graduate in Technical Computer Science
+
 🔍 Specialized in Database Systems and Data Engineering  
 💡 Focus on graph algorithms and distributed data systems  
 🎯 Currently working on multi-module data transfer systems
